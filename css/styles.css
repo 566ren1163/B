@@ -1,0 +1,71 @@
+body {
+  font-size: 16px;
+  font-family: Verdana, sans-serif;
+}
+
+.container {
+  width: 300px;
+  margin: auto;
+  margin-top: 60px;
+}
+
+form {
+  display: flex;
+}
+
+#app input[type="text"] {
+  padding: 2px;
+  width: 300px;
+  height: 30px;
+  border: solid 1px navy;
+  margin-left: 40px;
+}
+
+
+.sarch {
+  width: 50px;
+  height: 36px;
+  margin-left: 10px;
+  border: solid 1px navy;
+  background: navy;
+  color: white;
+}
+
+
+
+#app ul {
+  list-style: none;
+  
+}
+
+#app li {
+  line-height: 3;
+  border: solid 1px navy;
+  width: 300px;
+  height: 50px;
+  display: flex;
+  margin-top: 5px;
+}
+
+.box {
+text-align: center;
+margin-right: 20px;
+}
+
+span {
+  border: solid 1px navy;
+  background: navy;
+  color: white;
+ cursor: pointer;
+height: 50px;
+  width: 50px;
+  display: table-cell;
+
+}
+
+
+ 
+
+
+
+
